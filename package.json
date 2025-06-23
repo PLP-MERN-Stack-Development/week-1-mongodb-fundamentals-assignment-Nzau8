@@ -1,0 +1,20 @@
+{
+  "name": "mongodb-fundamentals-assignment",
+  "version": "1.0.0",
+  "description": "Week 1 MongoDB Fundamentals Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node insert_books.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "mongodb",
+    "assignment",
+    "plp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
